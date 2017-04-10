@@ -13,6 +13,7 @@ from wagtail.wagtailadmin.edit_handlers import (
     PageChooserPanel,
     StreamFieldPanel,
 )
+
 from wagtail.wagtailcore.fields import RichTextField, StreamField
 from wagtail.wagtailcore.models import Collection, Page
 from wagtail.wagtailforms.models import AbstractEmailForm, AbstractFormField
